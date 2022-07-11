@@ -19,3 +19,11 @@
     width: 25%;
     height: 25%;
 }
+
+#header {
+    border:1px solid black;
+}
+
+body {
+    background-color: lightblue;
+}
