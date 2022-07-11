@@ -1,0 +1,21 @@
+#header nav {
+    float: right;
+}
+
+.topHalf {
+    display: inline-block;
+    width: 100%;
+}
+
+
+.project {
+    border: 1px solid black;
+    width: 25%;
+    height: 25%;
+    display: inline-block;
+}
+
+.project img {
+    width: 25%;
+    height: 25%;
+}
